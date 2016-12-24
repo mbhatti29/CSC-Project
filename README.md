@@ -1,5 +1,7 @@
 # CSC 599.70 Introduction To Data Science - Final Project
 
+Video Presentation: https://www.youtube.com/watch?v=9VjQQeob8x0&feature=youtu.be
+
 ## Overview
 
 Climate change has certainly become one of humanity's greatest threats.  It is defined as the change in global or regional patterns in climate.  Advancements in technology have allowed scientists to collect various types of data regarding our changing planet, which has led to many significant discoveries.
@@ -48,5 +50,18 @@ Some of which we learned was how the pattern of surface temperature increases ha
 
 Temperatures continue to steadily increase most likely due to the emissions of certain greenhouse gases from the burning of fossil fuels.  We find that the atmosphere's largest greenhouse gas contribution comes from carbon dioxide, and the concentration of this gas continues to increase, recently breaking 400 ppm (parts-per-million).  Sea levels have also gone up as a result of increased global temperatures, which has adverse effects on sea life and coastal regions.  
 
-## References
+## Resources
 
+https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
+https://www.kaggle.com/txtrouble/carbon-emissions
+
+http://www.ncdc.noaa.gov/data-access/quick-links
+
+https://www.nodc.noaa.gov/General/sealevel.html
+
+http://climate.nasa.gov/vital-signs/sea-level/
+
+https://www.epa.gov/ghgreporting/ghg-reporting-program-data-sets
+
+http://cdiac.ornl.gov/
