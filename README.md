@@ -1,6 +1,4 @@
-# CSC 599.70 Introduction To Data Science - Final Project
-
-Video Presentation: https://www.youtube.com/watch?v=9VjQQeob8x0&feature=youtu.be
+# Climate Change - Data Analysis 
 
 ## Overview
 
